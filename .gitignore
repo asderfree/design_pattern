@@ -5,4 +5,5 @@ cmake-build-release/*
 data/image/
 venv
 .idea
+fhei
 *.so #过滤某种类型的文件
